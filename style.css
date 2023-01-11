@@ -1,0 +1,8 @@
+.calculator {
+    width: 300px;
+}
+
+.keyboard {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
